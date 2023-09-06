@@ -1,7 +1,7 @@
 {
-  "name": "@vue/component-compiler",
-  "version": "4.2.4",
-  "description": "bundler agnostic API for compiling Vue SFC",
+  "name": "@aissab/component-compiler",
+  "version": "4.2.5",
+  "description": "bundler agnostic API for compiling Vue SFC- upgrade dependencies",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vuejs/vue-component-compiler.git"
@@ -66,7 +66,7 @@
     "@vue/component-compiler-utils": "^3.0.0",
     "clean-css": "^4.1.11",
     "hash-sum": "^1.0.2",
-    "postcss-modules-sync": "^1.0.0",
+    "@aissab/postcss-modules-sync": "^1.0.1",
     "source-map": "0.6.*"
   }
 }
